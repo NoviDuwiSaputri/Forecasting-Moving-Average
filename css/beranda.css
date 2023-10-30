@@ -1,0 +1,136 @@
+#navbarutama {
+  background: Grey;
+  min-width: 45%;
+}
+
+.section-header {
+  height: auto;
+  margin: 0px auto;
+  width: 100%;
+  margin-top: 80px;
+  background: #fff;
+  margin-bottom: 2%;
+}
+
+.paragraph {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.section-qoute {
+  height: auto;
+  margin: 0px auto;
+  width: 100%;
+  margin-top: 0%;
+  background: #fff;
+  margin-bottom: 2%;
+}
+
+#pakgubernur {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 1%;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 2%;
+  font-family: Franklin Gothic;
+  font-size: 40pt;
+}
+
+#katamutiara {
+  margin-top: 2%;
+  width: 100%;
+}
+
+h4 {
+  margin-top: 2%;
+  font-family: Franklin Gothic;
+  font-size: 40pt;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.blockquote-footer {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.section-ajakan {
+  height: auto;
+  margin: 0px auto;
+  width: 100%;
+  margin-top: 0%;
+  background: Grey;
+  margin-bottom: 2%;
+  padding-top: 2%;
+}
+
+#judulajakan {
+  margin-top: 0%;
+  padding-top: 0px;
+  margin-bottom: 30px;
+}
+
+.paragraph1 {
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 1%;
+}
+
+#tomboldaftar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+.section-developer {
+  height: auto;
+  margin: 0px auto;
+  width: 100%;
+  margin-top: 0%;
+  background: #fff;
+  margin-bottom: 2%;
+  padding-top: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+}
+
+.card {
+  height: 400px;
+  width: 100%;
+}
+
+.section-tabel {
+  background: white;
+  width: 100%;
+  padding-right: 10%;
+  padding-left: 10%;
+  margin-bottom: 5%;
+  height: auto;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+#tabel {
+  width: 100%;
+}
+
+#tabel th {
+  text-align: center;
+}
+
+
+#footer {
+  background: Grey;
+}
+
+#linklogin {
+  text-decoration: none;
+  outline: none;
+}
+/*# sourceMappingURL=beranda.css.map */
